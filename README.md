@@ -47,8 +47,7 @@ The experiments use the CIFAR-10 dataset with the standard train/test split.
 
 ## Model
 
-- ResNet-18
-- Group Normalization instead of Batch Normalization
+- ResNet-18 with Group Normalization
 
 ## Methods
 
